@@ -1,4 +1,6 @@
 * Hazakura Colorscheme
+#+attr_html: :width 100px
+#+attr_latex: :width 100px
 [[./hazakura.png]]
 The soft yet colorful colorscheme.
 
