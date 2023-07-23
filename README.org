@@ -1,0 +1,28 @@
+* Hazakura Colorscheme
+[[./hazakura.png]]
+The soft yet colorful colorscheme.
+
+| Name       | Color Code |
+|------------+------------|
+| Dark Black | #0d0d0f    |
+| Black      | #151517    |
+| Dark Gray  | #242426    |
+| Gray       | #27272b    |
+| Light Gray | #454449    |
+| Highlight  | #5c5c61    |
+| Subwhite   | #d9d0d7    |
+| White      | #ece5ea    |
+| Red        | #f06969    |
+| Magenta    | #e887bb    |
+| Purple     | #a292e8    |
+| Blue       | #78b9c4    |
+| Cyan       | #7ee6ae    |
+| Green      | #91d65c    |
+| Yellow     | #d9d564    |
+
+** Ports
+The colorscheme is proudly a part of:
+- [Hazakura for Emacs](https://github.com/devraza/hazakura-emacs) and subsequently, [Dianciemacs](https://github.com/devraza/dianciemacs)
+- [Ambition](https://github.com/devraza/ambition)
+
+> More ports will come as time passes! With the help of the table above, you're also free to create your own.
